@@ -17,7 +17,6 @@ import albumData from './../data/albums';
                <div>{album.title}</div>
                <div>{album.artist}</div>
                <div>{album.songs.length} songs</div>
-            </div>
           </Link>
           )
         }
